@@ -1,0 +1,6 @@
+---
+grafana:
+  enabled: true
+  adminPassword: prom-operator
+  service:
+    type: NodePort
