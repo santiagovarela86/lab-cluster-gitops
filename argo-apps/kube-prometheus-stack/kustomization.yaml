@@ -11,6 +11,3 @@ helmCharts:
     valuesFile: values.yaml
 
 namespace: monitoring
-
-resources: 
-  - .
