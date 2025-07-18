@@ -1,6 +1,6 @@
 ---
 grafana:
   enabled: true
-  adminPassword: prom-operator
+  adminPassword: admin
   service:
     type: NodePort
