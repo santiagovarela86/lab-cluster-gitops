@@ -9,5 +9,6 @@ helmCharts:
     releaseName: kube-prom
     namespace: monitoring
     valuesFile: values.yaml
+    includeCRDs: true
 
 namespace: monitoring
